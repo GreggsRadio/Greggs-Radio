@@ -1,4 +1,4 @@
-worker: python run.py
+worker: python run.bat
 .idea/
 *.pyc
 ~*/
