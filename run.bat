@@ -1,3 +1,5 @@
+@ECHO off
+
 CHCP 65001 > NUL
 CD /d "%~dp0"
 
