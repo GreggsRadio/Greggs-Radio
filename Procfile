@@ -1,3 +1,4 @@
+worker: python run.py
 .idea/
 *.pyc
 ~*/
